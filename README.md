@@ -5,7 +5,7 @@ The games are played in CodeSkulptor, a browser-based Python interpreter. http:/
 
 1. "Rock-Paper-Scissors-Lizard-Spock" Mini-project week #1 - http://www.codeskulptor.org/#user40_R8VHl7hlzV_2.py
 
-2. "Guess the Number" game - Mini-project week #2 - http://www.codeskulptor.org/#user40_R8VHl7hlzV_8.py
+2. "Guess the Number" game - Mini-project week #2 - http://www.codeskulptor.org/#user40_R8VHl7hlzV_9.py
 
 3. "Stopwatch" The Game - Mini-project week #3 - http://www.codeskulptor.org/#user40_R8VHl7hlzV_4.py
 
