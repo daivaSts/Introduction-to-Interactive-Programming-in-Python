@@ -1,5 +1,6 @@
-# Introduction-to-Interactive-Programming-in-Python  course from Coursera/RICE University
-by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
+## Introduction to Interactive Programming in Python 
+####Coursera/RICE University
+####Instructors: Joe Warren, John Greiner, Stephen Wong, Scott Rixner
 
 The games are played in CodeSkulptor, a browser-based Python interpreter. http://www.codeskulptor.org/
 
